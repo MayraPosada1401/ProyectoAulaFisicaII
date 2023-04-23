@@ -1172,6 +1172,15 @@ justify-content: center;
      }
 } 
 
+.textoparainicio{
+     text-align: center;
+}
+.textoparainicio2{
+     text-align: center;
+     color: #000;
+     margin: 40px;
+}
+
 .textomodalmp{
      text-align: center;
      justify-content: center;
