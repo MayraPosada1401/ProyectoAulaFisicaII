@@ -1315,3 +1315,96 @@ justify-content: center;
      height: 150px;
      width: 150px;
 }
+.coloured {
+     color: rgb(255, 255, 255);
+     background: #FFAA17;
+ }
+ .wrapper {
+     display: block;
+     position: relative;
+     width: 100%;
+     text-align: left;
+     overflow-wrap: break-word;
+     margin: 0px;
+     padding: 0px;
+ }
+ #testimonials article {
+     text-align: center;
+ }
+ .one_half, .two_quarter {
+     width: 47.8947%;
+ }
+ .one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter {
+     display: inline-block;
+   
+ }
+
+ .tresorganizar{
+     justify-content: center;
+     text-align: center;
+     margin-bottom: 50px;
+     padding-bottom: 15px; 
+ }
+ .organizarcaja{
+     display: inline;
+ }
+
+ .wrapper {
+     display: block;
+     position: relative;
+     width: 100%;
+     text-align: left;
+     overflow-wrap: break-word;
+     margin-top: 40px;
+     padding: 0px;
+ }
+ *, ::before, ::after {
+     transition: all 0.3s ease-in-out 0s;
+ }
+ @media screen and (max-width: 750px){
+     .one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter {
+          display: block;
+          float: none;
+          width: auto;
+          margin: 0px 0px 30px;
+          padding: 0px;
+      }
+ }
+
+ .heading_ALCOHOLCAL{
+     font-size: 50PX;
+     color: white;
+     text-align: center;
+     padding: 30px;
+ }
+
+ .tamañonuevoimgm3{
+     width: 47.8947%;
+ }
+ @media screen and (max-width: 750px){
+     .tamañonuevoimgm3{
+          width: 72.8947%;
+ }
+ }
+ @media screen and (max-width: 670px){
+     .tamañonuevoimgm3{
+          width: 75.8947%;
+ }
+ }
+ @media screen and (max-width: 635px){
+     .tamañonuevoimgm3{
+          width: 78.8947%;
+ }
+ }
+
+ @media screen and (max-width: 605px){
+     .tamañonuevoimgm3{
+          width: 82.8947%;
+ }
+ }
+
+ @media screen and (max-width: 580px){
+     .tamañonuevoimgm3{
+          width: 94.8947%;
+ }
+ }
