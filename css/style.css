@@ -1458,3 +1458,12 @@ justify-content: center;
  .enlaces_referencia{
      padding: 20px;
  }
+ .paddingparrafoconcepto{
+     padding-top: -60px;
+     margin-top: -30px;
+ }
+
+ .configuraciontituloconcl{
+     margin-top: -50px;
+     margin-bottom: 50px;
+ }
