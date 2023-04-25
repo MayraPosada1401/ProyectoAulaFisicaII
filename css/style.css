@@ -1414,84 +1414,47 @@ justify-content: center;
           width: 92.8947%;
  }
  }
- .blog_comment h3 {
-     font-size: 18px;
-     font-weight: 500;
-     color: #0b1033;
-     padding-bottom: 80px;
-     padding-top: 80px;
-   }
-   
-   .blog_comment .media {
-     margin-bottom: 35px;
-   }
-   
-   .blog_comment .media .d-flex {
-     display: block !important;
-     padding: 0px 0px 0px 25px;
-     max-width: 144px;
-     width: 100%;
-   }
-   
-   .blog_comment .media .d-flex h4 {
-     color: #0b1033;
-     font-weight: 500;
-     font-size: 16px;
+ .wrapper2referencias{
+     display: inline-block;
+ }
+
+ .container_referencias{
      display: block;
-     padding-bottom: 6px;
-   }
-   
-   .blog_comment .media .d-flex h5 {
-     color: #7c8d93;
-     font-weight: 500;
-     font-size: 12px;
-     display: block;
-   }
-   
-   .blog_comment .media .media-body {
-     padding-left: 20px;
-   }
-   
-   .blog_comment .media .media-body p {
-     color: #7c8d93;
-     font-weight: 500;
-     font-size: 15px;
-     line-height: 28px;
-     padding-bottom: 15px;
-   }
-   
-   .blog_comment .media .media-body a {
-     color: #0b1033;
-     
-     font-weight: 500;
-     font-size: 12px;
-   }
-   
-   .blog_comment .media:last-child {
-     margin-bottom: 0px;
-   }
-   
-   .blog_comment_form {
-     max-width: 560px;
-   }
-   
-   .blog_comment_form h3 {
-     font-size: 18px;
-     font-family: "Roboto", sans-serif;
-     font-weight: 500;
-     color: #0b1033;
-     padding: 75px 0px 55px 0px;
-   }
-   
-   .blog_comment_form .contact_us_form {
-     margin-top: 0px;
-   }
-   
-   .blog_comment_form .contact_us_form .form-group input {
-     height: 55px;
-   }
-   
-   .blog_comment_form .contact_us_form .form-group:last-child {
-     margin-bottom: 0px;
-   }
-   
+ }
+
+ .imagenesreferecnia{
+     width: 70px;
+     height: 70px;
+     justify-content: center;
+ }
+
+ .fs-2{
+     padding-left: 16px;
+ }
+ 
+ .textotitulotes2{
+     text-align: center;
+     font-size: 35px;
+ }
+
+.margenescontenrefere{
+     margin-top: -100px;
+}
+
+ @media screen and (max-width: 1012px){
+     .paddingreferenciasorden1{
+          margin-top: -130px;
+ }}
+
+ @media screen and (max-width: 990px){
+     .paddingreferenciasorden2{
+          margin-top: -130px;
+ }}
+ 
+ .titulofuentesconsulta{
+     font-size: 40px;
+     text-align: center;
+ }
+ .enlaces_referencia{
+     padding: 20px;
+ }
