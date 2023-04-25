@@ -1467,3 +1467,32 @@ justify-content: center;
      margin-top: -50px;
      margin-bottom: 50px;
  }
+ 
+.colorletrasglicerina{
+     color: white;}
+
+.contenedorglicerinas{
+     border-radius: 15px;
+}
+.imagenglicm1{
+     padding: 20px;
+     border-radius: 15px;
+}
+
+.imagen2quahh{
+     width: 530px;
+     
+}
+
+.contenedorglidm3{
+     justify-content: center;
+}
+
+.contenedorarregloestruc{
+     margin-bottom: 40px;
+}
+
+.titulofuentesconsulta2{
+     font-size: 50px;
+     text-align: center;
+ }
