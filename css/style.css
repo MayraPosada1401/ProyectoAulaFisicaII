@@ -1407,11 +1407,22 @@ justify-content: center;
      .tamañonuevoimgm3{
           width: 94.8947%;
  }
+ .textoconclu_titulo{
+     font-size: 30px;
+ }
+ .texto300_testimonio{
+     font-size: 25px;
+ }
  }
 
  @media screen and (max-width: 410px){
      .tamañonuevoimgm3{
           width: 92.8947%;
+ }}
+
+ @media screen and (max-width: 395px){
+     .tamañonuevoimgm3{
+          width: 90.8947%;
  }
  }
  .wrapper2referencias{
