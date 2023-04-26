@@ -1511,3 +1511,9 @@ justify-content: center;
  .contenedorreferenciasp{
      margin-bottom: -180px;
  }
+
+ .colortitulomasagli{
+     color: white;
+     font-size: 30px;
+     text-align: center;
+ }
